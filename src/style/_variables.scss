@@ -33,6 +33,8 @@ $electric-violet: #7300e5 !default;
 $persian-red: #cf3030 !default;
 $mango-tango: #e97500 !default;
 
+$nomidio-dark-background: #030e2e !default;
+
 // Theme
 
 $color-primary: #89bf04 !default;
@@ -213,7 +215,8 @@ $table-parameter-deprecated-font-color: $color-danger !default;
 
 // Topbar
 
-$topbar-background-color: $cod-gray !default;
+//$topbar-background-color: $cod-gray !default;
+$topbar-background-color: $nomidio-dark-background !default;
 
 $topbar-link-font-color: $white !default;
 
